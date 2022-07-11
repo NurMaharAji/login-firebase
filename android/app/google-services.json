@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004700366968",
+    "project_id": "sewa-mobil-ffdce",
+    "storage_bucket": "sewa-mobil-ffdce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004700366968:android:970012973f1f02ee2dd58d",
+        "android_client_info": {
+          "package_name": "com.ram.tim4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004700366968-1akvah0fk8t182ocqo0tbd8s3ain3omq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6N1OqxysTqBAfkIt9gjH5h2m1dJtM8rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004700366968-1akvah0fk8t182ocqo0tbd8s3ain3omq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
